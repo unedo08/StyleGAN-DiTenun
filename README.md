@@ -1,5 +1,7 @@
-##Dataset 
+## Dataset
+```
 G-Drive : https://drive.google.com/drive/folders/1fB-uTaNfcuXyi45-jUZEdVCW7mDjvKzG?usp=sharing
+```
 
 ## Usage
 ```
@@ -42,5 +44,8 @@ python main.py --dataset FFHQ --img_size 1024 --progressive True --phase draw --
   * **`Official code`** = **2500**
 
 
-##author : Unedo Ignasius Manalu, SandraUlina Siregar, Evelin Theresia Panjaitan
+## Author 
+* Unedo Ignasius Manalu
+* SandraUlina Siregar
+* Evelin Theresia Panjaitan
 
