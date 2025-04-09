@@ -1,7 +1,8 @@
-## Dataset
-```
-G-Drive : https://drive.google.com/drive/folders/1fB-uTaNfcuXyi45-jUZEdVCW7mDjvKzG?usp=sharing
-```
+## Resources
+### Material related to our paper is available via the following links:
+* Paper : https://thesai.org/Downloads/Volume15No7/Paper_109-Generating_New_Ulos_Motif_with_Generative_AI_Method.pdf
+* Dataset :  https://drive.google.com/drive/folders/1fB-uTaNfcuXyi45-jUZEdVCW7mDjvKzG?usp=sharing
+* Code : https://github.com/unedo08/StyleGAN-DiTenun
 
 ## Usage
 ```
@@ -45,7 +46,8 @@ python main.py --dataset FFHQ --img_size 1024 --progressive True --phase draw --
 
 
 ## Author 
-* Unedo Ignasius Manalu
-* SandraUlina Siregar
-* Evelin Theresia Panjaitan
+* Humasak Simanjuntak - Pembimbing
+* Evelin Theresia Panjaitan - Anggota
+* SandraUlina Siregar - Anggota
+* Unedo Ignasius Manalu - Anggota
 
