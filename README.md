@@ -1,18 +1,7 @@
-# StyleGAN-Tensorflow
-**Simple & Intuitive** Tensorflow implementation of *"A Style-Based Generator Architecture for Generative Adversarial Networks"* **(CVPR 2019 Oral)**
-
-
-<div align="center">
-  <img src=./assets/stylegan-teaser.png>
-</div>
-
-### [Official code](https://github.com/NVlabs/stylegan) | [Paper](https://arxiv.org/abs/1812.04948) | [Video](https://www.youtube.com/watch?v=kSLJriaOumA&feature=youtu.be) | [FFHQ Dataset](https://github.com/NVlabs/ffhq-dataset) 
-
-## Other implementation
-### [TF Estimator version](https://github.com/moono/stylegan-reproduced)
-
-## Pretrained model
-### [Checkpoint](https://drive.google.com/file/d/1hLsESJujqKDKrgbNE8Nn8LAWCwglAHY3/view?usp=sharing)
+## Dataset
+```
+G-Drive : https://drive.google.com/drive/folders/1fB-uTaNfcuXyi45-jUZEdVCW7mDjvKzG?usp=sharing
+```
 
 ## Usage
 ```
@@ -49,14 +38,14 @@ python main.py --dataset FFHQ --img_size 1024 --progressive True --phase draw --
 python main.py --dataset FFHQ --img_size 1024 --progressive True --phase draw --draw truncation_trick
 ```
 
-## Architecture
-<div align="center">
-  <img src=./assets/A_module.png>
-  <img src=./assets/B_module.png>
-</div>
-
 ## Our Results (1024x1024)
 * Training time: **2 days 14 hours** with **V100 * 4**
 * **`max_iteration`** = **900**
   * **`Official code`** = **2500**
+
+
+## Author 
+* Unedo Ignasius Manalu
+* SandraUlina Siregar
+* Evelin Theresia Panjaitan
 
