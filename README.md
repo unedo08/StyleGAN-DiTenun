@@ -60,30 +60,3 @@ python main.py --dataset FFHQ --img_size 1024 --progressive True --phase draw --
 * **`max_iteration`** = **900**
   * **`Official code`** = **2500**
 
-### Uncurated
-<div align="center">
-  <img src=./assets/uncurated.jpg>
-</div>
-
-### Style mixing
-<div align="center">
-  <img src=./assets/style_mix_glod_bold.png>
-</div>
-
-### Truncation trick
-<div align="center">
-  <img src=./assets/truncation_trick.png>
-</div>
-
-### Generator loss graph
-<div align="center">
-  <img src="./assets/g_loss.png">
-</div>
-
-### Discriminator loss graph
-<div align="center">
-  <img src="./assets/d_loss.png">
-</div>
-
-## Author
-[Junho Kim](http://bit.ly/jhkim_ai)
